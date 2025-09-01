@@ -1,0 +1,16 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtualenv
+venv/
+.env
+
+# Ignore MySQL data
+mysql-data/
+data/
+
+# Ignore OS/editor files
+.DS_Store
+Thumbs.db
